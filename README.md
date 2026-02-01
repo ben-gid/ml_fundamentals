@@ -225,23 +225,6 @@ This is a learning project, but contributions are welcome! If you find bugs or w
 
 These implementations are heavily inspired by concepts from:
 - **Andrew Ng's Machine Learning Course** (Coursera)
-- **Deep Learning Specialization** (Coursera)
-- **Hands-On Machine Learning** by Aurélien Géron
-- **Pattern Recognition and Machine Learning** by Christopher Bishop
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **NumPy** for numerical computing primitives
-- **Matplotlib** for visualization capabilities
-- The ML community for amazing educational resources
 
 ---
 
